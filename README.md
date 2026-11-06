@@ -41,6 +41,9 @@ This project analyzes sales data to understand revenue performance across produc
 - Revenue by Region chart.
 - Revenue by Category chart.
 
+<img width="1903" height="817" alt="image" src="https://github.com/user-attachments/assets/02209146-b7ab-4757-9171-87bb0b7aabd3" />
+
+
 ## Project Files
 - `Sales_Performance_Analysis.xlsx`: Excel workbook containing the dataset, analysis, PivotTables, and interactive dashboard.
 
