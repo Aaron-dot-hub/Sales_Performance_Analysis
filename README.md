@@ -49,3 +49,5 @@ This project analyzes sales data to understand revenue performance across produc
 
 ## Learning Outcomes
 Through this project, I practiced data analysis using Excel, including data summarization, PivotTables, PivotCharts, KPI calculations, interactive filtering, and communicating business insights.
+
+Note: This is a practice project based on a small sample dataset. The findings describe this dataset and should not be generalized to a larger business without further analysis.
